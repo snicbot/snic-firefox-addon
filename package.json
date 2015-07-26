@@ -1,7 +1,7 @@
 {
   "title": "Snic",
   "name": "snic",
-  "id": "{0c7a4de0-5f93-11e3-949a-0800200c9a66}",
+  "id": "{ec77e45b-f659-4336-83bd-8c42940ff237}",
   "version": "0.1.0",
   "description": "Smart Near-Infrared Control.",
   "main": "index.js",

@@ -1,0 +1,12 @@
+{
+  "title": "SNIC",
+  "name": "snic",
+  "version": "0.1.0",
+  "description": "Smart Near-Infrared Control ",
+  "main": "index.js",
+  "author": "Alexander J. Salas B.",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL v2"
+}

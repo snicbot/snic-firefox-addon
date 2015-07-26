@@ -1,12 +1,14 @@
 {
-  "title": "SNIC",
+  "title": "Snic",
   "name": "snic",
+  "id": "{0c7a4de0-5f93-11e3-949a-0800200c9a66}",
   "version": "0.1.0",
-  "description": "Smart Near-Infrared Control ",
+  "description": "Smart Near-Infrared Control.",
   "main": "index.js",
-  "author": "Alexander J. Salas B.",
+  "author": "Alexander J. Salas B. <a.salas@ieee.org>",
   "engines": {
-    "firefox": ">=38.0a1"
+    "firefox": ">=36.0a1 <=40.0a2",
+    "seamonkey": ">=2.33 <=2.39"
   },
-  "license": "MPL v2"
+  "license": "MPL-2.0"
 }
